@@ -22,7 +22,7 @@
             font-size: 14px;
             font-weight: bold;
             text-align: center;
-            min-height: 120px;
+            min-height: 100px;
             display: flex;
             align-items: center;
             justify-content: center;
